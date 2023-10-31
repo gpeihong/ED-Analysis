@@ -1,3 +1,0 @@
-1.feature selection from all the feature about weather
-2.Time-lagged cross-correlation: identify the most relevant features and their respective lags
-3.model architcture: Combining other networks on the basis of LSTM
